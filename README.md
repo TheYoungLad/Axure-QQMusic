@@ -6,6 +6,8 @@
 
 ## 交互说明
 
+交互说明使用截图说明，如果图片显示不了，说明你的DNS被污染，无法访问`raw.githubusercontent.com`，可以科学上网进行访问或者修改本地host文件，关于修改本地host文件可以去百度“找不到 raw.githubusercontent.com 的服务器 IP 地址”后根据步骤进行解决。
+
 ![1](https://github.com/TheYoungLad/Axure-QQMusic/blob/master/intro-img/1.png)
 
 ![2](https://github.com/TheYoungLad/Axure-QQMusic/blob/master/intro-img/2.png)
